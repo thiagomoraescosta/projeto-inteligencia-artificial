@@ -31,9 +31,23 @@ body {
     color: #1190FF;
 }
 
+span {
+    background-color: #061f35;
+    color: #7cc2ff;
+    text-align: center;
+    width: 100%;
+    display: block;
+    padding: 4px;
+}
+
+span:hover {
+    color: white;
+    cursor: pointer;
+}
+
 .container-navegação {
     text-align: center;
-    padding: 20px;
+    padding: 2px;
     background-color: #06345D;
 }
 
@@ -41,7 +55,9 @@ body {
     font-size: 1.5em;
     margin: 0px 50px;
     text-decoration: none;
-    color: #7cc2ff;   
+    color: #7cc2ff;
+    display: inline-block;
+
 }
 
 .container-navegação a:hover {

@@ -1,0 +1,11 @@
+@charset "UFT-8";
+
+@media screen and (min-width:768px) {
+    span#burguer {
+        display: none;
+    }
+
+}
+    .container-navegação {
+        display: block;
+    }
