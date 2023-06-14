@@ -183,8 +183,9 @@ span:hover {
 }
 
 .container-contatos .contatos {
+    
     display: block;
-    font-size: 1.5em;
+    font-size: calc(2em + 2vw);
     text-decoration: none;
     color: #00a2ff;
     margin-bottom: 20px;
