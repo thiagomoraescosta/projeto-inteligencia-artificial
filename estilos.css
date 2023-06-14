@@ -183,14 +183,14 @@ span:hover {
 }
 
 .container-contatos .contatos {
-    width: auto;
+    overflow: auto;
     display: block;
     font-size: calc(2em + 1vw);
     text-decoration: none;
     color: #00a2ff;
     margin-bottom: 20px;
-   
-    
+
+
 }
 
 footer {
