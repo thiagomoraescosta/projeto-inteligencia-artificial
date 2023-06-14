@@ -132,7 +132,7 @@ span:hover {
     font-size: 1.1em;
     padding: 60px;
     overflow: auto;
-    float: center;
+
 }
 
 .container-serviços h1 {
@@ -156,6 +156,7 @@ span:hover {
     margin-bottom: 20px;
     margin-left: 50px;
     color: white;
+    float: center;
 }
 
 .container-contatos {
